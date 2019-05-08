@@ -1,0 +1,5 @@
+#../ShinyLearner/AlgorithmScripts/Classification/tsv/keras/snn/default__dropout=0.2_epochs=100_layers=1616_regularization=0.1
+#../ShinyLearner/AlgorithmScripts/Classification/tsv/keras/resnet/default__epochs=100_layer_width=16_layers=50_regularization=0.1
+#../ShinyLearner/AlgorithmScripts/Classification/tsv/keras/dnn/default__dropout=0.1_epochs=100_layers=1616_regularization=0.1
+#AlgorithmScripts/Classification/tsv/keras/resnet/alt__epochs=10_layer_width=16_layers=100_regularization=0.01
+AlgorithmScripts/Classification/tsv/keras/snn/alt__dropout=0.5_epochs=10_layers=1616_regularization=0.2
